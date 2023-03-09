@@ -15,3 +15,7 @@ Input validation to prevent incorrect inputs and division by zero errors.
 
 Responsive design to ensure the calculator works on different devices and screen sizes.
 
+Installation:
+
+To use this calculator,you can go to this link:
+https://simple-calculator-chi-puce.vercel.app/
